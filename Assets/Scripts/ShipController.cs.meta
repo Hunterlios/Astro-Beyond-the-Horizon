@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e140c21674e111b42a445df8888a8d72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boostSoundClip: {fileID: 8300000, guid: d2b9168202994584ca93208456c9b3f2, type: 3}
+  - engineSoundClip: {fileID: 8300000, guid: aa5ac7d5685a13044aed7bf3fbb0db24, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
